@@ -6,15 +6,15 @@ This Package is designed to provide developers with a straightforward way to acc
 Table of Contents
 - [Features](#features)
 - [Packages](#packages)
-  - [Installation](#Installation)
-  - [Usage](#Usage)
+  - [Installation](#installation)
+  - [Usage](#usage)
 - API (Coming Soon)
   - Endpoints
   - Authentication
   - Example
-- [Contributing](#Contributing)
-- [License](#License)
-- [Disclaimer](#Disclaimer)
+- [Contributing](#contributing)
+- [License](#license)
+- [Disclaimer](#disclaimer)
 
 ## Features
 
